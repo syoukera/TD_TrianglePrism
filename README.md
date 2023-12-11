@@ -7,4 +7,7 @@
 以下の画像のRGBを三角柱のそれぞれの辺に割り当てている
 
 <img src="[画像のURL.jpg](https://github.com/syoukera/TD_TrianglePrism/assets/39158849/e65f0d67-1a7e-4e90-a6bb-25c0e80e8e9b)" width="50%">
+
+<img alt="UVmap_TrianglePrism" src="https://github.com/syoukera/TD_TrianglePrism/assets/39158849/e65f0d67-1a7e-4e90-a6bb-25c0e80e8e9b" width="50%">
+
 ![UVmap_TrianglePrism](https://github.com/syoukera/TD_TrianglePrism/assets/39158849/e65f0d67-1a7e-4e90-a6bb-25c0e80e8e9b)
